@@ -2,6 +2,7 @@
 
 
 
+![Screenshot 2024-07-18 223241](https://github.com/user-attachments/assets/1b03a5c7-a71d-40d4-a0c3-a229acc54098)
 
 
 Octanet Pvt. Ltd. Internship Project
@@ -16,7 +17,8 @@ Features:
 
 - Responsive Design
 - Hover effect
--can add or delete new task
+- Can add or delete new task
+
 Technologies Used:
 
 - HTML
