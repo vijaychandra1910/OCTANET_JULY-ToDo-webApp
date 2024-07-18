@@ -10,14 +10,13 @@ Project Name: OCTANET_JULY-ToDo-webApp
 
 Description:
 
-This repository contains the work I completed during my internship at Octanet Pvt. Ltd. from 02/07/2024.
+This repository contains the work I completed during my internship at Octanet Pvt. Ltd. from 18/07/2024.
 
 Features:
 
 - Responsive Design
-- Exploring card
 - Hover effect
-
+-can add or delete new task
 Technologies Used:
 
 - HTML
